@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3EB26E9F-AD7C-2360-BA20-B388603099C1}") = "AR-Engine", "Assembly-CSharp.csproj", "{19D1E4A5-C003-4C85-DA0B-24A7C7550EE9}"
+EndProject
+Project("{3EB26E9F-AD7C-2360-BA20-B388603099C1}") = "AR-Engine", "Assembly-CSharp-Editor.csproj", "{234999A9-0396-A4D3-45A3-94CF4B47FAAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D1E4A5-C003-4C85-DA0B-24A7C7550EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D1E4A5-C003-4C85-DA0B-24A7C7550EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D1E4A5-C003-4C85-DA0B-24A7C7550EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D1E4A5-C003-4C85-DA0B-24A7C7550EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234999A9-0396-A4D3-45A3-94CF4B47FAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234999A9-0396-A4D3-45A3-94CF4B47FAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234999A9-0396-A4D3-45A3-94CF4B47FAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234999A9-0396-A4D3-45A3-94CF4B47FAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
